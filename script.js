@@ -1,21 +1,21 @@
 let noResponses = [
     {
-        question: "Pls? 🥺",
+        question: "Pls?",
         options: ["Sige na nga", "Ayoko"],
         img: "6254609c996571a1488e46d1cc702bb5.jpg"
     },
     {
-        question: "Sure ka na ba? 🥺👉👈",
+        question: "Sure ka na ba?",
         options: ["wla lng tlga akong choice", "kulit!"],
         img: "746d22074e490050b11dd15c43b5cb96.jpg"
     },
     {
-        question: "Last chance, promise! 🥺",
+        question: "Last chance, promise!",
         options: ["tigas nang mukha", "Hindi talaga"],
         img: "8248857610db7251980522a5656b8009.jpg"
     },
     {
-        question: "Tigas namn ng damdamin mo 🥺💔",
+        question: "Tigas namn ng damdamin mo",
         options: ["kapal nang bagang", "No is no!"],
         img: "c664add2a9b3b05118dcb453c7a6d177.jpg"
     },
