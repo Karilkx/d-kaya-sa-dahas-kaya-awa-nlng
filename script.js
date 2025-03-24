@@ -1,7 +1,7 @@
 let noResponses = [
     {
-        question: "Pls?",
-        options: ["Sige na nga", "Ayoko"],
+        question: "sus nahihiya kalang saakin eh",
+        options: ["kapal nang mukha ah", "luh"],
         img: "6254609c996571a1488e46d1cc702bb5.jpg"
     },
     {
