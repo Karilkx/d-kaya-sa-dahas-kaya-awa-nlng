@@ -5,7 +5,7 @@ let noResponses = [
         img: "6254609c996571a1488e46d1cc702bb5.jpg"
     },
     {
-        question: "Sure ka na ba?",
+        question: "Sure ka na ba ean?",
         options: ["wla lng tlga akong choice", "kulit!"],
         img: "746d22074e490050b11dd15c43b5cb96.jpg"
     },
@@ -15,7 +15,7 @@ let noResponses = [
         img: "8248857610db7251980522a5656b8009.jpg"
     },
     {
-        question: "Tigas namn ng damdamin mo",
+        question: "Tigas tlga ng damdamin mo noh",
         options: ["kapal nang bagang", "No is no!"],
         img: "c664add2a9b3b05118dcb453c7a6d177.jpg"
     },
